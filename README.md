@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=8D6E63&lines=Bem-vindo+ao+meu+perfil+do+GitHub!;Aqui+fala+um+dev+Front-End...;...em+eterno+aprendizado!+%F0%9F%98%83)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=8D6E63&lines=Bem-vindo+ao+meu+perfil+do+GitHub!;Aqui+fala+um+dev+Front-End...;...em+eterna+aprendizado!+%F0%9F%98%83)](https://git.io/typing-svg)
 ![Banner](https://raw.githubusercontent.com/johannbeckerr/johannbeckerr/main/banner.png)
 
 <div align="center">
@@ -15,35 +15,25 @@
   
   ## Habilidades/Aprendizagem <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> 
 
-  
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
+  <div style="display: inline_block">
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
+    <img align="right" alt="Rafa-pic" height="80" style="border-radius:50px;" src="https://i.giphy.com/media/zOvBKUUEERdNm/giphy.webp">
   </div>
-  
-  
-  
   
   ## Alguns projetos que fiz e participei <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> 
   <div style="display: inline_block">
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-D50000?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-AA00FF?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-42A5F5?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-00C853?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-FFD600?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-00B8D4?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-6c5ce7?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-FF7043?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-26A69A?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-EC407A?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-AB47BC?style=for-the-badge" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Landing Page Motorcycles-D50000?style=for-the-badge" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Buscador CEP-AA00FF?style=for-the-badge" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Conversor de Moedas-42A5F5?style=for-the-badge" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Toque de Tangerina-00C853?style=for-the-badge" target="_blank"></a>
+    <a href="https://financasimplificada.com.br/" target="_blank"><img src="https://img.shields.io/badge/Finança Simplificada-AA00FF?style=for-the-badge" target="_blank"></a>
+    <a href="https://dfnoponto.semob.df.gov.br/" target="_blank"><img src="https://img.shields.io/badge/DFnoPonto-FFD600?style=for-the-badge" target="_blank"></a>
+    <a href="https://mobilidade.brb.com.br/passelivre/pages/index.xhtml" target="_blank"><img src="https://img.shields.io/badge/BRB Mobilidade-00B8D4?style=for-the-badge" target="_blank"></a>
   </div>
   
   
