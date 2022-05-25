@@ -8,7 +8,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannbeckerr&layout=compact&langs_count=7&theme=onedark"/>
 </div>  
   
-  
+  <br/>
   <div style="display: inline_block">
       <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
