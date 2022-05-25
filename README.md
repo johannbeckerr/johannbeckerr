@@ -24,17 +24,17 @@
   
   ## Alguns projetos que fiz e participei <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> 
   <div style="display: inline_block">
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-1abc9c?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-3498db?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-9b59b6?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-f1c40f?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-e84393?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-81ecec?style=for-the-badge" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-D50000?style=for-the-badge" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-AA00FF?style=for-the-badge" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-42A5F5?style=for-the-badge" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-00C853?style=for-the-badge" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-FFD600?style=for-the-badge" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-00B8D4?style=for-the-badge" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-6c5ce7?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-d63031?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-E34F26?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-E34F26?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-a29bfe?style=for-the-badge" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-FF7043?style=for-the-badge" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-26A69A?style=for-the-badge" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-EC407A?style=for-the-badge" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-AB47BC?style=for-the-badge" target="_blank"></a>
 
     
   </div>00AFF0?style=for-the-badge
