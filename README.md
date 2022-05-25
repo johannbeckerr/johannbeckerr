@@ -22,7 +22,8 @@
   
 
   
-  
+    ![Snake animation](https://github.com/johannbeckerr/johannbeckerr/blob/output/github-contribution-grid-snake.svg)
+
   
   
     
