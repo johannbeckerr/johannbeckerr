@@ -26,6 +26,15 @@
   <img  src="https://github.com/johannbeckerr/johannbeckerr/blob/output/github-contribution-grid-snake.svg"
     alt="example" />
 </p>  
+  
+  <p align="center">
+  <img  src="https://starchart.cc/{johannbeckerr}/{repo}.svg"
+    alt="example" />
+</p> 
+  
+  
+
+  
 
   
 
