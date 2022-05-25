@@ -1,7 +1,6 @@
-### Surprise motherfucker 🖕
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=E17055&lines=Bem-vindo+ao+meu+perfil+do+GitHub!;Aqui+fala+um+dev+Front-End...;...em+eterno+aprendizado!+%F0%9F%98%83)](https://git.io/typing-svg)
 ![Banner](https://raw.githubusercontent.com/johannbeckerr/johannbeckerr/main/banner.png)
-
 
 <div align="center">
   <a href="https://github.com/johannbeckerr">
