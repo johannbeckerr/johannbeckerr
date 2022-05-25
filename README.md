@@ -11,7 +11,7 @@
       <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
-  ## Habilidades/Aprendizagem <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> 
+  ## Habilidades/Aprendizagem <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> 
 
   <div style="display: inline_block">
     <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
@@ -22,7 +22,7 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
   </div>
   
-  ## Alguns projetos que fiz e participei <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> 
+  ## Alguns projetos que fiz e participei <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> 
   <div style="display: inline_block">
     <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-D50000?style=for-the-badge" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-AA00FF?style=for-the-badge" target="_blank"></a>
@@ -35,9 +35,7 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-26A69A?style=for-the-badge" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-EC407A?style=for-the-badge" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/wwwwwwwwww-AB47BC?style=for-the-badge" target="_blank"></a>
-
-    
-  </div>00AFF0?style=for-the-badge
+  </div>
   
   
   
