@@ -27,10 +27,10 @@
   
   ## Alguns projetos que fiz e participei <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> 
   <div style="display: inline_block">
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Landing Page Motorcycles-D50000?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Buscador CEP-AA00FF?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Conversor de Moedas-42A5F5?style=for-the-badge" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Toque de Tangerina-00C853?style=for-the-badge" target="_blank"></a>
+    <a href="https://landing-page-motorcycles-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Landing Page Motorcycles-D50000?style=for-the-badge" target="_blank"></a>
+    <a href="https://buscador-cep-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Buscador CEP-AA00FF?style=for-the-badge" target="_blank"></a>
+    <a href="https://conversor-moedas-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Conversor de Moedas-42A5F5?style=for-the-badge" target="_blank"></a>
+    <a href="https://toque-de-tangerina-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Toque de Tangerina-00C853?style=for-the-badge" target="_blank"></a>
     <a href="https://financasimplificada.com.br/" target="_blank"><img src="https://img.shields.io/badge/Finança Simplificada-AA00FF?style=for-the-badge" target="_blank"></a>
     <a href="https://dfnoponto.semob.df.gov.br/" target="_blank"><img src="https://img.shields.io/badge/DFnoPonto-FFD600?style=for-the-badge" target="_blank"></a>
     <a href="https://mobilidade.brb.com.br/passelivre/pages/index.xhtml" target="_blank"><img src="https://img.shields.io/badge/BRB Mobilidade-00B8D4?style=for-the-badge" target="_blank"></a>
