@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=8D6E63&lines=Bem-vindo+ao+meu+perfil+do+GitHub!;Aqui+fala+um+dev+Front-End...;...em+eterno+aprendizado!+%F0%9F%98%83)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=8D6E63&lines=Bem-vindo+ao+meu+GitHub!;Aqui+fala+um+dev+Front-End...;...em+eterno+aprendizado!+%F0%9F%98%83)](https://git.io/typing-svg)
 ![Banner](https://raw.githubusercontent.com/johannbeckerr/johannbeckerr/main/banner.png)
 
 <div align="center">
