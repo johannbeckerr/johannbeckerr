@@ -13,7 +13,7 @@
       <a href="https://www.linkedin.com/in/johann-becker/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
-  ## Habilidades/Aprendizagem <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> 
+  ## Habilidades/Aprendizagem <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30px" height="30px"> 
 
   <div style="display: inline_block">
     <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
@@ -25,7 +25,7 @@
     <img align="right" alt="Rafa-pic" height="80" style="border-radius:50px;" src="https://i.giphy.com/media/zOvBKUUEERdNm/giphy.webp">
   </div>
   
-  ## Alguns projetos que fiz e participei <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> 
+  ## Alguns projetos que fiz e participei <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30px" height="30px"> 
   <div style="display: inline_block">
     <a href="https://landing-page-motorcycles-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Landing Page Motorcycles-D50000?style=for-the-badge" target="_blank"></a>
     <a href="https://buscador-cep-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Buscador CEP-AA00FF?style=for-the-badge" target="_blank"></a>
