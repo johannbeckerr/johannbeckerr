@@ -27,6 +27,7 @@
   
   ## Alguns projetos que fiz e participei <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30px" height="30px"> 
   <div style="display: inline_block">
+    <a href="https://dark-mode-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Dark Mode-000?style=for-the-badge" target="_blank"></a>
     <a href="https://landing-page-motorcycles-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Landing Page Motorcycles-D50000?style=for-the-badge" target="_blank"></a>
     <a href="https://buscador-cep-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Buscador CEP-AA00FF?style=for-the-badge" target="_blank"></a>
     <a href="https://conversor-moedas-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Conversor de Moedas-42A5F5?style=for-the-badge" target="_blank"></a>
