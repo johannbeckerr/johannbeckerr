@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=8D6E63&lines=Bem-vindo+ao+meu+GitHub!;Aqui+fala+um+dev+Front-End...;...em+eterno+aprendizado!+%F0%9F%98%83)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=8D6E63&lines=Bem-vindo+ao+meu+GitHub!;+😎)](https://git.io/typing-svg)
 
 ![Banner](https://raw.githubusercontent.com/johannbeckerr/johannbeckerr/main/banner.png)
 
@@ -18,10 +18,10 @@
   ## Habilidades/Aprendizagem <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30px" height="30px"> 
 
   <div style="display: inline_block">
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-F44336?style=for-the-badge&logo=java&logoColor=black" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-F44336?style=for-the-badge&logo=java&logoColor=black" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
