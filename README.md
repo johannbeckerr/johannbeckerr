@@ -3,11 +3,11 @@
 
 ![Banner](https://raw.githubusercontent.com/johannbeckerr/johannbeckerr/main/banner.png)
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/johannbeckerr">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=johannbeckerr&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannbeckerr&layout=compact&langs_count=7&theme=onedark"/>
-</div>  
+</div>  -->
   
   <br/>
   <div style="display: inline_block">
