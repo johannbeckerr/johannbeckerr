@@ -74,4 +74,36 @@
   
   
  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" 
-         alt="Snake animation" />
+ alt="Snake animation" />
+
+
+<!-- automatic theme switching -->
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johannbeckerr/contribution-snake/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johannbeckerr/contribution-snake/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/johannbeckerr/contribution-snake/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
+<!-- For GIF animations with theme switching: -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johannbeckerr/contribution-snake/output/github-contribution-grid-snake.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johannbeckerr/contribution-snake/output/github-contribution-grid-snake-light.gif">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/johannbeckerr/contribution-snake/output/github-contribution-grid-snake-light.gif">
+</picture>
+
+
+
+
+<!-- For static theme (light mode only): -->
+
+![Snake Animation](https://raw.githubusercontent.com/johannbeckerr/contribution-snake/output/github-contribution-grid-snake.svg)
+
+
+<!-- For static theme (dark mode only): -->
+
+![Snake Animation](https://raw.githubusercontent.com/johannbeckerr/contribution-snake/output/github-contribution-grid-snake-dark.svg)
