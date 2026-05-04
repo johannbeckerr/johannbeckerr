@@ -54,4 +54,4 @@
 
   
   
-    ![snake animation](https://github.com/<seu user name>/<johannbeckerr>/blob/output/github-contribution-grid-snake2.svg)
+   [ ![snake animation](https://github.com/<seu user name>/<johannbeckerr>/blob/output/github-contribution-grid-snake2.svg)](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
