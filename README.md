@@ -15,7 +15,7 @@
       <img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=40%2C40" />
   </div>
   
-  ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20px" height="20px"> Skills & Learning <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30px" height="30px"> 
+  ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20px" height="20px"> Skills & Learning <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20px" height="20px"> 
 
   <div style="display: inline_block">
     <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" target="_blank">
 </a>
   
-  ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30px" height="30px"> Featured Projects <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30px" height="30px"> 
+  ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20px" height="20px"> Featured Projects <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20px" height="20px"> 
   <div style="display: inline_block">
     <a href="https://dark-mode-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Dark Mode-000?style=for-the-badge" target="_blank"></a>
     <a href="https://landing-page-motorcycles-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Landing Page Motorcycles-D50000?style=for-the-badge" target="_blank"></a>
