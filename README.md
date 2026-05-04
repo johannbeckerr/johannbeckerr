@@ -1,5 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=8D6E63&lines=Welcome+to+my+GitHub!;+😎)](https://git.io/typing-svg)
 
 
 
@@ -9,7 +8,8 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=15000&pause=0001&color=64D86B&background=000000&center=true&width=800&lines=console.log-%3EWelcome+to+my+GitHub" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=15000&pause=0001&color=64D86B&background=000000&center=true&width=1200&lines=console.log-%3EWelcome+to+my+GitHub😎" alt="Typing SVG" /></a>
 
 
 
