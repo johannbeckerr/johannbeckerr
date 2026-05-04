@@ -11,7 +11,7 @@
 
 <a href="https://git.io/typing-svg">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=64D86B&background=000000&width=435&lines=console.log" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=64D86B&background=000000&width=300&lines=console.log" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=64D86B&background=000000&width=435&lines=..." alt="Typing SVG" />
 
