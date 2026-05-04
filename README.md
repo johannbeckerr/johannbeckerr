@@ -46,12 +46,12 @@
   <img  src="https://github.com/johannbeckerr/johannbeckerr/blob/output/github-contribution-grid-snake.svg"/>
 </p>  -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
   
   
-   [ ![snake animation](https://github.com/<seu user name>/<johannbeckerr>/blob/output/github-contribution-grid-snake2.svg)](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg">
+</picture>
