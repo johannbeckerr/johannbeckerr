@@ -9,7 +9,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=15000&pause=0001&color=64D86B&background=000000&center=true&width=1200&lines=console.log-%3EWelcome+to+my+GitHub😎" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=15000&pause=0001&color=64D86B&background=000000&center=true&width=1200&&height=170&lines=console.log-%3EWelcome+to+my+GitHub😎" alt="Typing SVG" /></a>
 
 
 
