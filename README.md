@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=8D6E63&lines=Welcome+to+my+GitHub!;+😎)](https://git.io/typing-svg)
+console.log("[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=8D6E63&lines=Welcome+to+my+GitHub!;+😎)](https://git.io/typing-svg)")
 
 ![Banner](https://raw.githubusercontent.com/johannbeckerr/johannbeckerr/main/banner.png)
 
