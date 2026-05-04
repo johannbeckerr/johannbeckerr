@@ -13,7 +13,7 @@
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=1000&color=64D86B&background=000000&width=300&lines=console.log" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=0000&pause=1000&color=64D86B&background=000000&width=300&lines=console.log" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=64D86B&background=000000&width=300&lines=console.log" alt="Typing SVG" />
 </a>
 
 
