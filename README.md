@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=8D6E63&lines=Welcome+to+my+GitHub!;+😎)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=64D86B&background=000000&width=435&lines=console.log;...;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" /></a>
 
 ![Banner](https://raw.githubusercontent.com/johannbeckerr/johannbeckerr/main/banner.png)
 
