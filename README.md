@@ -49,7 +49,7 @@
   ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20px" height="20px"> Featured Projects <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20px" height="20px"> 
 
   <div style="display: inline_block">
-        <a href="https://gradetrackerapp.vercel.app/index.html" target="_blank"><img src="https://img.shields.io/badge/GradeTracker-42A5F5?style=for-the-badge" target="_blank"></a>
+        <a href="https://gradetrackerapp.vercel.app/index.html" target="_blank"><img src="https://img.shields.io/badge/GradeTracker-D50000?style=for-the-badge" target="_blank"></a>
     <a href="https://spoke-bike.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Spoke-FFD600?style=for-the-badge" target="_blank"></a>
     <a href="https://dark-mode-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Dark Mode-000?style=for-the-badge" target="_blank"></a>
     <a href="https://landing-page-motorcycles-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Landing Page Motorcycles-D50000?style=for-the-badge" target="_blank"></a>
