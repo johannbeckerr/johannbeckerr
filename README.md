@@ -21,33 +21,36 @@
   
   ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20px" height="20px"> Skills & Learning <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20px" height="20px"> 
 
-  <div style="display: inline_block">
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-F44336?style=for-the-badge&logo=java&logoColor=black" target="_blank"></a>
-    <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a> -->
-    <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>-->
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
-    <img align="right" alt="Rafa-pic" height="80" style="border-radius:50px;" src="https://i.giphy.com/media/zOvBKUUEERdNm/giphy.webp">
-  </div>
-  <!-- SQL -->
-<a href="" target="_blank">
+
+
+
+
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Java-F44336?style=for-the-badge&logo=java&logoColor=black">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" target="_blank">
-</a>
-
-<!-- Node.js -->
-<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank">
-</a>
-
-<!-- Next.js -->
-<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" target="_blank">
-</a>
+</p>
+
+  <!-- <img align="right" alt="Rafa-pic" height="80" style="border-radius:50px;" src="https://i.giphy.com/media/zOvBKUUEERdNm/giphy.webp"> -->
+
   
   ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20px" height="20px"> Featured Projects <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20px" height="20px"> 
+
   <div style="display: inline_block">
+        <a href="https://gradetrackerapp.vercel.app/index.html" target="_blank"><img src="https://img.shields.io/badge/GradeTracker-42A5F5?style=for-the-badge" target="_blank"></a>
+    <a href="https://spoke-bike.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Spoke-FFD600?style=for-the-badge" target="_blank"></a>
     <a href="https://dark-mode-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Dark Mode-000?style=for-the-badge" target="_blank"></a>
     <a href="https://landing-page-motorcycles-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Landing Page Motorcycles-D50000?style=for-the-badge" target="_blank"></a>
     <a href="https://buscador-cep-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Buscador CEP-AA00FF?style=for-the-badge" target="_blank"></a>
