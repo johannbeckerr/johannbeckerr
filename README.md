@@ -41,8 +41,8 @@ I'm a software developer based in Dublin, Ireland. I'm finishing a Higher Diplom
 | **Spoke** | A web app to organise cycling routes and group rides in one place. | JavaScript, PostgreSQL (Neon), Vercel, Render | [Code](https://github.com/johannbeckerr/Spoke) · [Live](https://spoke-bike.vercel.app/) |
 | **FoodBoxApp** | A stack (LIFO) and a circular queue (FIFO) built from scratch on plain arrays, for the Algorithms and Constructs module. | Java 21, Maven | [Code](https://github.com/johannbeckerr/FoodBoxApp) |
 
-
-<b>Other projects</b>
+<details>
+<summary><b>Other projects</b></summary>
 
   <div style="display: inline_block">
     <a href="https://dark-mode-johann.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Dark Mode-000?style=for-the-badge" target="_blank"></a>
@@ -54,7 +54,7 @@ I'm a software developer based in Dublin, Ireland. I'm finishing a Higher Diplom
     <a href="https://dfnoponto.semob.df.gov.br/" target="_blank"><img src="https://img.shields.io/badge/DFnoPonto-FFD600?style=for-the-badge" target="_blank"></a>
     <a href="https://mobilidade.brb.com.br/passelivre/pages/index.xhtml" target="_blank"><img src="https://img.shields.io/badge/BRB Mobilidade-00B8D4?style=for-the-badge" target="_blank"></a>
   </div>
-
+</details>
 
 
 ## Commits
